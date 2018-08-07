@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>speak text to speech with Resvonsive Voice</title>
+ <title>EDITspeak text to speech with Resvonsive Voice</title>
  <script src='https://code.responsivevoice.org/responsivevoice.js'></script>
 </head>
 <body>
